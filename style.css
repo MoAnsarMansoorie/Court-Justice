@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.hero-container{
+    height: 100vh;
+    background: #2b2922;
+    color: #fff;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links{
+    display: flex;
+    column-gap: 5rem;
+}
+
+.nav-item{
+    list-style: none;
+}
+
+.nav-btn{
+    background-color: #2b2922;
+    margin-right: 3rem;
+    padding: .5rem;
+    color: #fff;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8rem;
+}
+
+.left-header{
+    margin-left: 3rem;
+}
+
+.right-header{
+    margin-right: 3rem;
+}
+
+.bottom-container {
+    width: 99vw;
+    height: 50vh;
+    background: url(./assets/imageee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 5rem;
+    
+}
+
