@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/Project-Court%20Justice-yellow)
 
-[Link of Deployed Live Project]()
+[Link of Deployed Live Project](https://courtjusticepage.netlify.app/)
 
 ![image](./assets/landingpage.png)
 
